@@ -55,9 +55,5 @@ switch(numeroUno) {
              break
 }
 
-//estructura condicional multiple (if anidados)
-
-
-
 
 //for(i; 1; 3) {}
