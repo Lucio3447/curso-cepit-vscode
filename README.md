@@ -1,4 +1,4 @@
-# curso-cepit-vscode
+# curso-cepit-vscode, paginas
 ## lucio (doble numeral)
 ### ahora 3 numerales
 ---
